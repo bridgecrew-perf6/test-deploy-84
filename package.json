@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"All of your zero tests passed. Congrats!\" && exit 0"
   },
   "repository": {
     "type": "git",
