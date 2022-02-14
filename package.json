@@ -1,0 +1,20 @@
+{
+  "name": "test-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westeezy/test-deploy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westeezy/test-deploy/issues"
+  },
+  "homepage": "https://github.com/westeezy/test-deploy#readme"
+}
